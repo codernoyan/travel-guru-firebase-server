@@ -11,7 +11,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 5.0,
-    "perNight": 34
+    "perNight": 34,
+    "img": "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "nilgiri",
@@ -25,7 +26,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.9,
-    "perNight": 44
+    "perNight": 44,
+    "img": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "sajek",
@@ -39,7 +41,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.8,
-    "perNight": 36
+    "perNight": 36,
+    "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "sundorbon",
@@ -53,7 +56,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.3,
-    "perNight": 59
+    "perNight": 59,
+    "img": "https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "nilgiri",
@@ -67,7 +71,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 5.0,
-    "perNight": 47
+    "perNight": 47,
+    "img": "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "nilgiri",
@@ -81,7 +86,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.7,
-    "perNight": 69
+    "perNight": 69,
+    "img": "https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "sundorbon",
@@ -95,7 +101,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.7,
-    "perNight": 69
+    "perNight": 69,
+    "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "sundorbon",
@@ -109,7 +116,8 @@
     "facility": "Wifi, Air conditioned room, Kitchen.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.7,
-    "perNight": 69
+    "perNight": 69,
+    "img": "https://images.pexels.com/photos/97083/pexels-photo-97083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "place": "sajek",
@@ -123,6 +131,7 @@
     "facility": "Wifi, Kitchen and free see foods.",
     "condition": "Cancellation fexibility availiable",
     "ratings": 4.9,
-    "perNight": 89
+    "perNight": 89,
+    "img": "https://images.pexels.com/photos/271643/pexels-photo-271643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]
