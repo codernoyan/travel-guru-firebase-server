@@ -1,0 +1,128 @@
+[
+  {
+    "place": "sajek",
+    "hotelName": "Hotel Blue Moon",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 5.0,
+    "perNight": 34
+  },
+  {
+    "place": "nilgiri",
+    "hotelName": "Hotel Blue Star",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.9,
+    "perNight": 44
+  },
+  {
+    "place": "sajek",
+    "hotelName": "Hotel Radisson Blu",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.8,
+    "perNight": 36
+  },
+  {
+    "place": "sundorbon",
+    "hotelName": "The Peninsula",
+    "roomCapacity": {
+      "guests": 2,
+      "bedrooms": 2,
+      "beds": 4,
+      "baths": 1
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.3,
+    "perNight": 59
+  },
+  {
+    "place": "nilgiri",
+    "hotelName": "The Paradise Hotel",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 5.0,
+    "perNight": 47
+  },
+  {
+    "place": "nilgiri",
+    "hotelName": "The Sheraton Hotel",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 4,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.7,
+    "perNight": 69
+  },
+  {
+    "place": "sundorbon",
+    "hotelName": "The Royal Resort",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 4,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.7,
+    "perNight": 69
+  },
+  {
+    "place": "sundorbon",
+    "hotelName": "Panorama Green Resort",
+    "roomCapacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 4,
+      "baths": 2
+    },
+    "facility": "Wifi, Air conditioned room, Kitchen.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.7,
+    "perNight": 69
+  },
+  {
+    "place": "sajek",
+    "hotelName": "Cloud Times Resort",
+    "roomCapacity": {
+      "guests": 8,
+      "bedrooms": 4,
+      "beds": 4,
+      "baths": 2
+    },
+    "facility": "Wifi, Kitchen and free see foods.",
+    "condition": "Cancellation fexibility availiable",
+    "ratings": 4.9,
+    "perNight": 89
+  }
+]
